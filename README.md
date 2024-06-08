@@ -28,15 +28,19 @@ Other Accessories (Car mounts, phone stands, etc.) (List additional categories a
 Pricing:
 Clearly display the price range for each product category (e.g., Phone Cases: RM20-RM80)
 
-Additional Information:
-
+Payment Methods:
 Payment Methods: We accept cash and major credit cards (in-store only). (Update if applicable)
-Warranty: Clearly outline your warranty policy for tech accessories.
-Returns & Exchanges: Clearly outline your return and exchange policy.
-Promotions: List any ongoing promotions or discounts on tech accessories.
+
+Warranty: 
+Clearly outline your warranty policy for tech accessories.
+
+Returns & Exchanges:
+Clearly outline your return and exchange policy.
+
+Promotions: 
+List any ongoing promotions or discounts on tech accessories.
 
 Please note:
-
 Remove any irrelevant information about cake ingredients, cake tiers, and icing flavors.
 Update the website link to your actual website address for tech accessories.
 Consider adding high-quality photos of your tech accessories to showcase your products.
