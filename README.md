@@ -1,13 +1,13 @@
 Shop information
 
-Owner:
+Manager:
 Mr. Faris
 
 Time open:
-Everyday from 10am to 10pm (Except wednesday)
+Everyday from 9am to 10pm (Except wednesday)
 
 Website Link:
-(https://tech-store-kijjl6g.gamma.site/)
+(https://fa-tech-store-kijjl6g.gamma.site/)
 
 Location:
 Street - Jalan Tinju 13/50, Seksyen 13, 40100 Shah Alam
@@ -15,64 +15,43 @@ State/province/area - Selangor
 Zip code - 42600
 
 Phone Number:
-+60 19-439 5991
++60 19-440 8706
 
-Tech items:
-Earphones (Available)
-USB Type-C Cable (Unavailable)
-Phone Holder (Unavailable)
-Headphones (Unavailable)
+Products:
+Phone Cases (Available in a variety of styles and materials)
+Screen Protectors (Tempered Glass & Anti-Glare options available)
+Chargers & Cables (Lightning, USB-C, etc.)
+Headphones & Earphones (Wireless & Wired options)
+Power Banks (Portable chargers with various capacities)
+Other Accessories (Car mounts, phone stands, etc.) (List additional categories as needed)
 
-Sizes & Pricing:
-Round cake 6 inch diameter - 30RM (40RM with icing)
-Round cake 8 inch diameter - 50RM (62RM with icing)
-Round cake 10 inch diameter - 80RM (95RM with icing)
-Round cake 12 inch diameter - 115RM (132RM with icing)
-Round cake 14 inch diameter - 155RM (175RM with icing)
-Round cake 16 inch diameter - 200RM (220RM with icing)
-Square cake 6x6 inch size - 40RM (52RM with icing)
-Square cake 8x8 inch size - 70RM (88RM with icing)
-Square cake 10x10 inch size - 110RM (140RM with icing)
-Square cake 12x12 inch size - 155RM (195RM with icing)
-Rectangle cake 6x8 inch size - 50RM (65RM with icing)
-Rectangle cake 8x12 inch size - 100RM (125RM with icing)
-Rectangle cake 12x16 inch size - 200RM (240RM with icing)
-Height is 4 inch for all cakes
+Pricing:
+Clearly display the price range for each product category (e.g., Phone Cases: RM20-RM80)
 
-Ordering process:
-Specify cake tier number (accept 1 to 3)
-For each cake, specify which cake and icing flavour
-If cake tier is more than 1, lower cake must have bigger size than upper ones
-Cake tier cannot have different shapes
+Additional Information:
 
-Ingredients:
-All-purpose flour, granulated sugar, baking powder, baking soda, eggs, milk, vegetable oil, vanilla extract. (Made from scratch, all locally sourced ingredients)
+Payment Methods: We accept cash and major credit cards (in-store only). (Update if applicable)
+Warranty: Clearly outline your warranty policy for tech accessories.
+Returns & Exchanges: Clearly outline your return and exchange policy.
+Promotions: List any ongoing promotions or discounts on tech accessories.
 
-Programs:
-No cake workshop or decoration classes
+Please note:
+
+Remove any irrelevant information about cake ingredients, cake tiers, and icing flavors.
+Update the website link to your actual website address for tech accessories.
+Consider adding high-quality photos of your tech accessories to showcase your products.
 No loyalty program (will soon be implemented)
 No refunds and returns
 
 Promotions:
-[Chocolate Spree] Chocolate cake 20% off (End at 29th March)
+[Screen Protectors] Screen Protectors 20% off (End at 29th March)
 
 Tax:
 10% Government tax
 
-Icing:
-Icing is applied around each cake (except bottom part)
-
 Others:
-No vegan/free gluten options
 Order can be made via phone/chatbot (or coming to place)
 Deposit is 80% of the total price
-Do not accept any form of cash
+Do not accept any form of cash (Except for coming to place)
 Tasting appointment can just come to the place directly
 Doesn't accept order issues, if any issue on orders, tell them to contact customer service via phone number.
-
-Other products:
-Candle (2RM for each candle)
-Lighter for candle (3RM)
-Plastic plates (2RM per 12 plates)
-Plastic utensils (spoon & fork) 1RM per tool
-Plastic knife to cut cake (2.5RM)
